@@ -1,6 +1,8 @@
 
  Fundamentos de Swift e iOS
+
 📖 O Desafio:
+
 ✳️ Criar um projeto no playground usando o Xcode
 
 ✳️ Definir uma constante com o valor inicial "Steve"
